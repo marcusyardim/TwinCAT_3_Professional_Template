@@ -1,0 +1,6 @@
+# TwinCAT 3 Ignore Rules
+*.dbg
+*.bak
+*.tclrs
+_Boot/
+_CompileInfo/
